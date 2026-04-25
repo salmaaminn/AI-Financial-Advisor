@@ -1,4 +1,4 @@
-An AI-powered client intake system for law firms that automatically summarizes legal requests, categorizes inquiries, and suggests recommended next steps for advisors through Google Gemini AI and MySQL.
+A client intake system for law firms that automatically summarizes legal requests, categorizes inquiries, and suggests recommended next steps for advisors using AI and MySQL.
 
 Example Output:
 ```
